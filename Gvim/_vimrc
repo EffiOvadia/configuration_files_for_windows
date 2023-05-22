@@ -102,6 +102,8 @@ set nowrap
 
 " -----------------------------------------------------------------------------
 
+let g:solarized_termcolors=256
+
 if has("gui_running")
 
      set t_Co=256
@@ -123,9 +125,6 @@ if has("gui_running")
      set mouse=a
      " Set the color scheme.
 
-     colorscheme elflord
-     let g:solarized_termcolors=256
-
      if has("win32") || has("win64")
 
           behave mswin
@@ -143,6 +142,8 @@ if has("gui_running")
           set guifont=Source\ Code\ Pro\ Light 16
 
      endif
+
+     colorscheme elflord
 
 endif
 
