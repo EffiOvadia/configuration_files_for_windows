@@ -86,15 +86,15 @@
       },
       {
         "name": "Ubuntu 23.04",
+        "commandline": "wsl --distribution ubuntu --user root",
         "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc",
         "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
-        "commandline": "wsl -d ubuntu -u root",
         "cursorColor": "#FF0000",
         "hidden": false
       },
       {
         "name": "Ubuntu 22.04.2 LTS",
-        "commandline": "wsl -d Ubuntu-22.04 -u root",
+        "commandline": "wsl --distribution Ubuntu-22.04 --user root",
         "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
         "guid": "{d7b20cea-47a9-518c-95a4-c8bd91e2e1c6}",
         "cursorColor": "#FF0000",
@@ -102,27 +102,35 @@
       },
       {
         "name": "Ubuntu 20.04.5 LTS",
+        "commandline": "wsl --distribution Ubuntu-20.04 --user root",
         "source": "CanonicalGroupLimited.Ubuntu20.04LTS_79rhkp1fndgsc",
         "guid": "{4dd1e689-b517-5f39-947d-78e8a8bdf958}",
-        "commandline": "wsl -d Ubuntu-20.04 -u root",
         "cursorColor": "#FF0000",
         "hidden": false
       },
       {
         "name": "Debian GNU/Linux 11",
         "source": "Windows.Terminal.Wsl",
-        "commandline": "wsl -d debian -u root",
+        "commandline": "wsl --distribution debian --user root",
         "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+        "cursorColor": "#FF0000",
+        "hidden": false
+      },
+      {
+        "name": "OracleLinux 9.1",
+        "source": "Windows.Terminal.Wsl",
+        "commandline": "wsl --distribution OracleLinux_9_1 --user root",
+        "guid": "{4ebdc201-93f2-5914-a6fa-6f6bf882cbea}",
         "cursorColor": "#FF0000",
         "hidden": false
       },
       {
         "name": "kali-linux",
         "source": "Windows.Terminal.Wsl",
-        "commandline": "wsl -d kali-linux -u root",
+        "commandline": "wsl --distribution kali-linux --user root",
         "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
         "cursorColor": "#FF0000",
-        "hidden": false,
+        "hidden": false
       },
       {
         "name": "Python",
