@@ -2,9 +2,9 @@
   "editor.fontFamily": "'Cascadia Code PL'",
   "editor.fontLigatures": true,
   "editor.fontWeight": "200",
-  "editor.fontSize": 13,
+  "editor.fontSize": 12,
   "terminal.integrated.fontFamily": "'Cascadia Code PL'",
-  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontSize": 11,
   "editor.formatOnSave": true,
   "editor.tabSize": 2,
   "editor.suggestSelection": "first",
@@ -13,7 +13,6 @@
   "vscode-edge-devtools.webhint": false,
   "workbench.iconTheme": "material-icon-theme",
   "git.enableSmartCommit": true,
-  "workbench.colorTheme": "Oled Neon Theme Black",
   "workbench.startupEditor": "none",
   "workbench.activityBar.visible": true,
   "workbench.statusBar.visible": true,
@@ -42,8 +41,73 @@
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "terminal.integrated.defaultProfile.osx": "",
   "terminal.integrated.defaultProfile.linux": "",
-  "window.zoomLevel": 1,
   "editor.cursorSmoothCaretAnimation": "on",
   "workbench.list.smoothScrolling": true,
-  "editor.smoothScrolling": true
+  "editor.smoothScrolling": true,
+  "powershell.startAutomatically": false,
+  "terminal.integrated.fontWeight": "200",
+  "terminal.integrated.fontWeightBold": "500",
+  "workbench.colorTheme": "monokai-charcoal",
+  "workbench.productIconTheme": "fluent-icons",
+  "better-comments.tags": [
+    {
+      "tag": "@",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": true
+    },
+    {
+      "tag": "!",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "-",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "/",
+      "color": "#474747",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": true
+    }
+  ],
+  "better-comments.highlightPlainText": true,
+  "files.associations": {
+    "*.ps1": "powershell"
+  },
+  "window.zoomLevel": 1
 }
