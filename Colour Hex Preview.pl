@@ -8,7 +8,7 @@ Beige	#F5F5DC	#F5F5DC
 Bisque	#FFE4C4	#FFE4C4
 BlanchedAlmond	#FFEBCD	#FFEBCD
 Blue	#5e5eff	#5e5eff
-BlueViolet	#964de8	#964de8
+BlueViolet	#964de8"	#964de8
 Brown	#b45959	#b45959
 BurlyWood	#DEB887	#DEB887
 CadetBlue	#5F9EA0	#5F9EA0
