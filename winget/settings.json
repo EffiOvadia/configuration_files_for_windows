@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/winget-settings.schema.json",
+  "experimentalFeatures": { "dependencies": true, "directMSI": false, "zipInstall": false, },
+  "visual": { "progressBar": "rainbow" },
+  "source": { "autoUpdateIntervalInMinutes": 5 },
+  "installBehavior": { "disableInstallNotes": true },
+  "installBehavior": { "preferences": { "scope": "user" } },
+  "installBehavior": { "preferences": { "locale": [ "en-US", "he-IL" ] } },
+  "installBehavior": { "preferences": { "architectures": [ "x64" ] } },
+  "telemetry": { "disable": true }
+}
+
