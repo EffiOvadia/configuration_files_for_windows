@@ -77,7 +77,7 @@
         "hidden": false
       },
       {
-        "name": "Debian GNU/Linux 12",
+        "name": "Debian GNU/Linux 12.1",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl --distribution debian --user root",
         "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
@@ -93,7 +93,7 @@
         "hidden": false
       },
       {
-        "name": "kali-linux",
+        "name": "Kali-Linux",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl --distribution kali-linux --user root",
         "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
