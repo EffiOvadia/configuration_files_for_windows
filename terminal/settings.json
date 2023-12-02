@@ -61,7 +61,7 @@
         "hidden": false
       },
       {
-        "name": "Ubuntu 23.04",
+        "name": "Ubuntu 23.10",
         "commandline": "wsl --distribution ubuntu --user root",
         "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc",
         "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
