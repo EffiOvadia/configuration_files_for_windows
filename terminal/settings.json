@@ -69,7 +69,7 @@
         "hidden": false
       },
       {
-        "name": "Ubuntu 22.04.2 LTS",
+        "name": "Ubuntu 22.04.3 LTS",
         "commandline": "wsl --distribution Ubuntu-22.04 --user root",
         "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
         "guid": "{d7b20cea-47a9-518c-95a4-c8bd91e2e1c6}",
