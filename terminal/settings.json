@@ -40,7 +40,7 @@
       {
         "name": "PowerShell \u26a1",
         "source": "Windows.Terminal.PowershellCore",
-        "commandline": "pwsh.exe -NoLogo -WorkingDirectory ~",
+        "commandline": "pwsh -NoLogo -WorkingDirectory ~",
         "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
         "cursorColor": "#00CCFF",
         "hidden": false
@@ -57,6 +57,15 @@
         "commandline": "%SystemDrive%/Cygwin64/bin/bash --login -i",
         "guid": "{a8029c17-5fa8-48d3-ba23-8c158ac3785f}",
         "icon": "%SystemDrive%/Cygwin64/Cygwin.ico",
+        "cursorColor": "#00CCFF",
+        "hidden": false
+      },
+      {
+        "name": "GIT",
+        "commandline": "%programfiles%/Git/bin/bash.exe -i -l",
+        "startingDirectory": "%UserProfile%/github",
+        "guid": "{e42e1362-6b5b-45f4-a13f-09dc48cc3ceb}",
+        "icon": "%programfiles%/Git/mingw64/share/git/git-for-windows.ico",
         "cursorColor": "#00CCFF",
         "hidden": false
       },
