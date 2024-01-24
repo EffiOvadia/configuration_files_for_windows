@@ -42,6 +42,7 @@
         "source": "Windows.Terminal.PowershellCore",
         "commandline": "pwsh -NoLogo -WorkingDirectory ~",
         "guid": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
+        "adjustIndistinguishableColors": "always",
         "cursorColor": "#00CCFF",
         "hidden": false
       },
@@ -49,6 +50,7 @@
         "name": "PowerShell",
         "commandline": "powershell.exe -NoLogo",
         "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+        "adjustIndistinguishableColors": "always",
         "cursorColor": "#00CCFF",
         "hidden": false
       },
@@ -57,6 +59,7 @@
         "commandline": "%SystemDrive%/Cygwin64/bin/bash --login -i",
         "guid": "{a8029c17-5fa8-48d3-ba23-8c158ac3785f}",
         "icon": "%SystemDrive%/Cygwin64/Cygwin.ico",
+        "adjustIndistinguishableColors": "always",
         "cursorColor": "#00CCFF",
         "hidden": false
       },
@@ -113,6 +116,7 @@
         "name": "Python",
         "commandline": "python",
         "guid": "{705eda2e-4518-4ad1-94de-763afb1bab2a}",
+        "adjustIndistinguishableColors": "always",
         "cursorColor": "#FF00FF",
         "foreground": "#000000",
         "colorScheme": "Frost",
