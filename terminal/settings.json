@@ -67,29 +67,54 @@
         "name": "GIT",
         "commandline": "%programfiles%/Git/bin/bash.exe -i -l",
         "startingDirectory": "%UserProfile%/github",
-        "guid": "{e42e1362-6b5b-45f4-a13f-09dc48cc3ceb}",
+        "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
         "icon": "%programfiles%/Git/mingw64/share/git/git-for-windows.ico",
         "cursorColor": "#00CCFF",
+        "source": "Git",
         "hidden": false
       },
       {
-        "name": "Ubuntu 23.10",
+        "name": "Python",
+        "commandline": "python",
+        "guid": "{705eda2e-4518-4ad1-94de-763afb1bab2a}",
+        "adjustIndistinguishableColors": "always",
+        "cursorColor": "#FF00FF",
+        "foreground": "#000000",
+        "colorScheme": "Frost",
+        "useAcrylic": true,
+        "opacity": 70,
+        "hidden": true
+      },
+      {
+        "name": "Command Prompt",
+        "startingDirectory": "%SYSTEMDRIVE%/",
+        "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+        "backgroundImageOpacity": 0.9,
+        "cursorColor": "#FF00FF",
+        "foreground": "#000000",
+        "colorScheme": "Frost",
+        "useAcrylic": true,
+        "opacity": 70,
+        "hidden": true
+      },
+      {
+        "name": "Ubuntu",
         "commandline": "wsl --distribution ubuntu --user root",
         "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc",
-        "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+        "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
         "cursorColor": "#FF0000",
         "hidden": false
       },
       {
-        "name": "Ubuntu 22.04.3 LTS",
+        "name": "Ubuntu LTS",
         "commandline": "wsl --distribution Ubuntu-22.04 --user root",
         "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
-        "guid": "{d7b20cea-47a9-518c-95a4-c8bd91e2e1c6}",
+        "guid": "{e5a83caa-4c73-52b3-ae6b-bc438d721ef9}",
         "cursorColor": "#FF0000",
         "hidden": false
       },
       {
-        "name": "Debian GNU/Linux 12.1",
+        "name": "Debian Bookworm",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl --distribution debian --user root",
         "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
@@ -105,36 +130,12 @@
         "hidden": false
       },
       {
-        "name": "Kali-Linux",
+        "name": "Kali Linux",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl --distribution kali-linux --user root",
         "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
         "cursorColor": "#FF0000",
         "hidden": false
-      },
-      {
-        "name": "Python",
-        "commandline": "python",
-        "guid": "{705eda2e-4518-4ad1-94de-763afb1bab2a}",
-        "adjustIndistinguishableColors": "always",
-        "cursorColor": "#FF00FF",
-        "foreground": "#000000",
-        "colorScheme": "Frost",
-        "useAcrylic": true,
-        "opacity": 70,
-        "hidden": false
-      },
-      {
-        "name": "Command Prompt",
-        "startingDirectory": "%SYSTEMDRIVE%/",
-        "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-        "backgroundImageOpacity": 0.9,
-        "cursorColor": "#FF00FF",
-        "foreground": "#000000",
-        "colorScheme": "Frost",
-        "useAcrylic": true,
-        "opacity": 70,
-        "hidden": true
       }
     ]
   },
