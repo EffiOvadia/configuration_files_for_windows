@@ -38,6 +38,7 @@
     },
     "list": [
       {
+        // PowerShell core
         "name": "PowerShell \u26a1",
         "source": "Windows.Terminal.PowershellCore",
         "commandline": "pwsh -NoLogo -WorkingDirectory ~",
@@ -47,6 +48,7 @@
         "hidden": false
       },
       {
+        // Windows PowerShell
         "name": "PowerShell",
         "commandline": "powershell.exe -NoLogo",
         "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
@@ -55,6 +57,7 @@
         "hidden": false
       },
       {
+        // Cygwin x64
         "name": "Cygwin",
         "commandline": "%SystemDrive%/Cygwin64/bin/bash --login -i",
         "guid": "{a8029c17-5fa8-48d3-ba23-8c158ac3785f}",
@@ -64,6 +67,7 @@
         "hidden": false
       },
       {
+        // Git Bash
         "name": "GIT",
         "commandline": "%programfiles%/Git/bin/bash.exe -i -l",
         "startingDirectory": "%UserProfile%/github",
@@ -74,6 +78,7 @@
         "hidden": false
       },
       {
+        // Python
         "name": "Python",
         "commandline": "python",
         "guid": "{705eda2e-4518-4ad1-94de-763afb1bab2a}",
@@ -86,6 +91,7 @@
         "hidden": true
       },
       {
+        // Command prompt 
         "name": "Command Prompt",
         "startingDirectory": "%SYSTEMDRIVE%/",
         "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
@@ -98,6 +104,7 @@
         "hidden": true
       },
       {
+        // Ubuntu (latest)
         "name": "Ubuntu",
         "commandline": "wsl --distribution ubuntu --user root",
         "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc",
@@ -106,6 +113,7 @@
         "hidden": false
       },
       {
+        // Ubnutu LTS 
         "name": "Ubuntu LTS",
         "commandline": "wsl --distribution Ubuntu-22.04 --user root",
         "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
@@ -114,6 +122,7 @@
         "hidden": false
       },
       {
+        // Debian Stable
         "name": "Debian Bookworm",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl --distribution debian --user root",
@@ -122,6 +131,7 @@
         "hidden": false
       },
       {
+        // Oracle Linux
         "name": "OracleLinux 9.1",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl --distribution OracleLinux_9_1 --user root",
@@ -130,6 +140,7 @@
         "hidden": false
       },
       {
+        // Kalli Linux
         "name": "Kali Linux",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl --distribution kali-linux --user root",
