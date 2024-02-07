@@ -61,35 +61,28 @@
         "name": "Cygwin",
         "commandline": "%SystemDrive%/Cygwin64/bin/bash --login -i",
         "guid": "{a8029c17-5fa8-48d3-ba23-8c158ac3785f}",
-        "icon": "%SystemDrive%/Cygwin64/Cygwin.ico",
         "adjustIndistinguishableColors": "always",
+        "icon": "https://ubuntu.com/favicon.ico",
         "cursorColor": "#00CCFF",
         "hidden": false
       },
       {
         // Ubuntu 
         "name": "Ubuntu",
-        "commandline": "wsl --distribution ubuntu --user root",
+        "commandline": "wsl -d ubuntu -u root",
         "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc",
         "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
+        "icon": "https://ubuntu.com/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
       },
       {
         // Ubnutu LTS 
         "name": "Ubuntu LTS",
-        "commandline": "wsl --distribution Ubuntu-22.04 --user root",
+        "commandline": "wsl -d Ubuntu-22.04 -u root",
         "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
         "guid": "{e5a83caa-4c73-52b3-ae6b-bc438d721ef9}",
-        "cursorColor": "#FF0000",
-        "hidden": false
-      },
-      {
-        // Debian Stable
-        "name": "Debian Bookworm",
-        "source": "Windows.Terminal.Wsl",
-        "commandline": "wsl --distribution debian --user root",
-        "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+        "icon": "https://ubuntu.com/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
       },
@@ -97,17 +90,30 @@
         // Oracle Linux
         "name": "OracleLinux 9.1",
         "source": "Windows.Terminal.Wsl",
-        "commandline": "wsl --distribution OracleLinux_9_1 --user root",
+        "commandline": "wsl -d OracleLinux_9_1 -u root",
         "guid": "{4ebdc201-93f2-5914-a6fa-6f6bf882cbea}",
+        "icon": "https://www.oracle.com/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
       },
       {
+        // Debian Stable
+        "name": "Debian Bookworm",
+        "source": "Windows.Terminal.Wsl",
+        "commandline": "wsl -d debian -u root",
+        "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+        "icon": "https://www.debian.org/favicon.ico",
+        "cursorColor": "#FF0000",
+        "hidden": false
+      },
+
+      {
         // Kalli Linux
         "name": "Kali Linux",
         "source": "Windows.Terminal.Wsl",
-        "commandline": "wsl --distribution kali-linux --user root",
+        "commandline": "wsl -d kali-linux -u root",
         "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
+        "icon": "https://www.kali.org/images/favicon.png",
         "cursorColor": "#FF0000",
         "hidden": false
       },
@@ -116,6 +122,7 @@
         "name": "Python",
         "commandline": "python",
         "guid": "{705eda2e-4518-4ad1-94de-763afb1bab2a}",
+        "icon": "https://www.python.org/favicon.ico",
         "cursorColor": "#FF00FF",
         "foreground": "#000000",
         "colorScheme": "Frost",
