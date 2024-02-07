@@ -62,7 +62,7 @@
         "commandline": "%SystemDrive%/Cygwin64/bin/bash --login -i",
         "guid": "{a8029c17-5fa8-48d3-ba23-8c158ac3785f}",
         "adjustIndistinguishableColors": "always",
-        "icon": "https://ubuntu.com/favicon.ico",
+        "icon": "https://cygwin.com/favicon.ico",
         "cursorColor": "#00CCFF",
         "hidden": false
       },
@@ -113,7 +113,7 @@
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl -d kali-linux -u root",
         "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
-        "icon": "https://www.kali.org/images/favicon.png",
+        "icon": "https://www.kali.org/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
       },
