@@ -77,7 +77,7 @@
         "hidden": false
       },
       {
-        // Ubnutu LTS 
+        // Ubnutu 22.04 LTS 
         "name": "Ubuntu LTS",
         "commandline": "wsl -d Ubuntu-22.04 -u root",
         "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
@@ -87,7 +87,7 @@
         "hidden": false
       },
       {
-        // Oracle Linux
+        // Oracle Linux 9.1
         "name": "OracleLinux 9.1",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl -d OracleLinux_9_1 -u root",
@@ -97,7 +97,7 @@
         "hidden": false
       },
       {
-        // Debian Stable
+        // Debian GNU/Linux
         "name": "Debian Bookworm",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl -d debian -u root",
@@ -108,7 +108,7 @@
       },
 
       {
-        // Kalli Linux
+        // Kalli Linux Rolling
         "name": "Kali Linux",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl -d kali-linux -u root",
