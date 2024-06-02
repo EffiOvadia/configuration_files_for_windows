@@ -77,22 +77,12 @@
         "hidden": false
       },
       {
-        // Ubnutu 22.04 LTS 
-        "name": "Ubuntu LTS",
-        "commandline": "wsl -d Ubuntu-22.04 -u root",
-        "source": "CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc",
-        "guid": "{e5a83caa-4c73-52b3-ae6b-bc438d721ef9}",
-        "icon": "https://ubuntu.com/favicon.ico",
-        "cursorColor": "#FF0000",
-        "hidden": false
-      },
-      {
-        // Oracle Linux 9.1
-        "name": "OracleLinux 9.1",
-        "source": "Windows.Terminal.Wsl",
-        "commandline": "wsl -d OracleLinux_9_1 -u root",
-        "guid": "{4ebdc201-93f2-5914-a6fa-6f6bf882cbea}",
-        "icon": "https://www.oracle.com/favicon.ico",
+        // Ubnutu 24.04 LTS
+        "name": "Ubuntu 24.04 LTS",
+        "commandline": "wsl -d Ubuntu-24.04 -u root",
+        "source": "CanonicalGroupLimited.Ubuntu24.04LTS_79rhkp1fndgsc",
+        "guid": "{acbafd15-cbbb-5bb3-8a61-bed446ff4b83}",
+        "icon": "https://help.ubuntu.com/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
       },
@@ -106,7 +96,16 @@
         "cursorColor": "#FF0000",
         "hidden": false
       },
-
+      {
+        // Oracle Linux 9.1
+        "name": "OracleLinux 9.1",
+        "source": "Windows.Terminal.Wsl",
+        "commandline": "wsl -d OracleLinux_9_1 -u root",
+        "guid": "{4ebdc201-93f2-5914-a6fa-6f6bf882cbea}",
+        "icon": "https://www.oracle.com/favicon.ico",
+        "cursorColor": "#FF0000",
+        "hidden": false
+      },
       {
         // Kalli Linux Rolling
         "name": "Kali Linux",
