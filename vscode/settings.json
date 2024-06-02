@@ -109,5 +109,6 @@
   "files.associations": {
     "*.ps1": "powershell"
   },
+  "files.eol": "\n",
   "window.zoomLevel": 1
 }
