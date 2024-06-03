@@ -72,7 +72,7 @@
         "commandline": "wsl -d ubuntu -u root",
         "source": "CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc",
         "guid": "{51855cb2-8cce-5362-8f54-464b92b32386}",
-        "icon": "https://ubuntu.com/favicon.ico",
+        "icon": "https://help.ubuntu.com/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
       },
@@ -88,7 +88,7 @@
       },
       {
         // Debian GNU/Linux
-        "name": "Debian Bookworm",
+        "name": "Debian GNU/Linux",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl -d debian -u root",
         "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
@@ -97,18 +97,18 @@
         "hidden": false
       },
       {
-        // Oracle Linux 9.1
-        "name": "OracleLinux 9.1",
+        // Oracle Linux 9.3
+        "name": "Oracle Linux 9.3",
         "source": "Windows.Terminal.Wsl",
-        "commandline": "wsl -d OracleLinux_9_1 -u root",
-        "guid": "{4ebdc201-93f2-5914-a6fa-6f6bf882cbea}",
+        "commandline": "wsl -d OracleLinux_9_3 -u root",
+        "guid": "{2584e5d3-5e7e-51b0-840b-5d4ab1757fa0}",
         "icon": "https://www.oracle.com/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
       },
       {
         // Kalli Linux Rolling
-        "name": "Kali Linux",
+        "name": "Kali Linux Rolling",
         "source": "Windows.Terminal.Wsl",
         "commandline": "wsl -d kali-linux -u root",
         "guid": "{46ca431a-3a87-5fb3-83cd-11ececc031d2}",
