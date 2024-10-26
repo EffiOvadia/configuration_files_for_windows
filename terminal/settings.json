@@ -81,7 +81,7 @@
         "name": "Ubuntu 24.04 LTS",
         "commandline": "wsl -d Ubuntu-24.04 -u root",
         "source": "CanonicalGroupLimited.Ubuntu24.04LTS_79rhkp1fndgsc",
-        "guid": "{acbafd15-cbbb-5bb3-8a61-bed446ff4b83}",
+        "guid": "{d8e96812-b789-5068-a5ae-10b2fb53e95f}",
         "icon": "https://help.ubuntu.com/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
@@ -119,7 +119,7 @@
       {
         // Python
         "name": "Python",
-        "commandline": "python",
+        "commandline": "python3.13.exe",
         "guid": "{705eda2e-4518-4ad1-94de-763afb1bab2a}",
         "icon": "https://www.python.org/favicon.ico",
         "cursorColor": "#FF00FF",
