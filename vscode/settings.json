@@ -14,9 +14,8 @@
   "workbench.iconTheme": "material-icon-theme",
   "git.enableSmartCommit": true,
   "workbench.startupEditor": "none",
-  "workbench.activityBar.visible": true,
   "workbench.statusBar.visible": true,
-  "workbench.editor.showTabs": true,
+  "workbench.editor.showTabs": "multiple",
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.tabCloseButton": "right",
   "workbench.editor.tabSizing": "shrink",
@@ -35,7 +34,6 @@
   },
   "git.autofetch": true,
   "git.confirmSync": false,
-  "php.validate.executablePath": "",
   "git.openRepositoryInParentFolders": "always",
   "explorer.confirmDelete": false,
   "terminal.integrated.defaultProfile.windows": "PowerShell",
@@ -47,7 +45,7 @@
   "powershell.startAutomatically": false,
   "terminal.integrated.fontWeight": "200",
   "terminal.integrated.fontWeightBold": "500",
-  "workbench.colorTheme": "monokai-charcoal",
+  "workbench.colorTheme": "Night Owl Oled Dim 95",
   "workbench.productIconTheme": "fluent-icons",
   "better-comments.tags": [
     {
@@ -109,6 +107,6 @@
   "files.associations": {
     "*.ps1": "powershell"
   },
-  "files.eol": "\n",
-  "window.zoomLevel": 1
+  "workbench.editor.tabActionLocation": "right",
+  "files.eol": "\n"
 }
