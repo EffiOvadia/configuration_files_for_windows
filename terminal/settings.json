@@ -14,7 +14,7 @@
   "disabledProfileSources": ["Windows.Terminal.Azure"],
   "firstWindowPreference": "persistedWindowLayout",
   "focusFollowMouse": false,
-  "initialCols": 120,
+  "initialCols": 135,
   "initialPosition": "300,100",
   "initialRows": 30,
   "language": "en-US",
