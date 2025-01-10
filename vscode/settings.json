@@ -3,6 +3,7 @@
   "editor.fontLigatures": true,
   "editor.fontWeight": "200",
   "editor.fontSize": 12,
+  "editor.bracketPairColorization.enabled": true,
   "terminal.integrated.fontFamily": "'Cascadia Code PL'",
   "terminal.integrated.fontSize": 11,
   "editor.formatOnSave": true,
