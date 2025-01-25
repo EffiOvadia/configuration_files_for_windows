@@ -97,11 +97,11 @@
         "hidden": false
       },
       {
-        // Oracle Linux 9.3
-        "name": "Oracle Linux 9.3",
+        // Oracle Linux 9.4
+        "name": "Oracle Linux 9.4",
         "source": "Windows.Terminal.Wsl",
-        "commandline": "wsl -d OracleLinux_9_3 -u root",
-        "guid": "{2584e5d3-5e7e-51b0-840b-5d4ab1757fa0}",
+        "commandline": "wsl -d OracleLinux_9_4 -u root",
+        "guid": "{3dcd5bf3-8db2-5fd0-9927-1bfb9c194862}",
         "icon": "https://www.oracle.com/favicon.ico",
         "cursorColor": "#FF0000",
         "hidden": false
