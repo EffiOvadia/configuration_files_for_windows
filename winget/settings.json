@@ -3,9 +3,13 @@
   "experimentalFeatures": { "dependencies": true, "directMSI": false, "zipInstall": false },
   "visual": { "progressBar": "accent" },
   "source": { "autoUpdateIntervalInMinutes": 5 },
-  "installBehavior": { "disableInstallNotes": true },
-  "installBehavior": { "preferences": { "scope": "user" } },
-  "installBehavior": { "preferences": { "locale": [ "en-US", "he-IL" ] } },
-  "installBehavior": { "preferences": {  "architectures": [ "x64" ] } },
+  "installBehavior": { 
+    "disableInstallNotes": true,
+    "preferences": { 
+      "scope": "user", 
+      "locale": [ "en-US", "he-IL" ], 
+      "architectures": [ "x64" ] 
+    }
+  },
   "telemetry": { "disable": true }
 }
