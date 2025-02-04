@@ -59,8 +59,13 @@
         "name": "PowerShell",
         "commandline": "powershell.exe -NoLogo",
         "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+        "backgroundImage": "%LOCALAPPDATA%/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/powershell.png",
         "adjustIndistinguishableColors": "always",
+        "backgroundImageAlignment": "bottomRight",
+        "backgroundImageStretchMode": "uniform",
+        "backgroundImageOpacity": 0.08,
         "cursorColor": "#00CCFF",
+        "opacity": 90,
         "hidden": false
       },
       {
