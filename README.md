@@ -1,1 +1,1 @@
-# setup_scripts
+# configuration file for windows and linux 
