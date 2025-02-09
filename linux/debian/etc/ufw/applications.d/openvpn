@@ -1,0 +1,4 @@
+[OpenVPN]
+title=OpenVPN server
+description=OpenVPN
+ports=1194/udp

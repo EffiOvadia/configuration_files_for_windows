@@ -1,0 +1,39 @@
+Name: Brave Browser
+Enabled: yes
+Types: deb
+URIs: https://brave-browser-apt-release.s3.brave.com/
+Suites: stable
+Components: main
+Architectures: amd64
+# https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+Signed-By: 
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
+ .
+ mQINBGOrCckBEADNcJUEATinOnryWPrc9nC3CrU6sDuJArVki6KMx3lkfSSATFfN
+ reVv+OcrLtGD1E+jwSlYVX0c+7LhuuMLeJuORD9JqXNSdbalnhEOijmzZ/Efgc3u
+ HWP3Vp2Ljdrp8YVGLDJwbUwSQv3xEfn5UioSA3FhuOigrpmLTPSTR1TrjT81jQC2
+ e6ychAkb0u225yjXuY/fJqx8KV6Qoh17dudt87VAuSatK0Fo93wECfFL9NRs4+fe
+ 4Ddiw5HqOyC6wjqaEnfpDptCKj1M+tptR3BdJhnXPl/uxaNQ9ECpEVMGPJ4EX7pl
+ H7ReYmWFg2JsRDhtJ0A5jhQ32OUAyOAlHZIvy3X2B2MLSbAz1CSVLCnB4M6q88Xj
+ fkbIvb9dKy6zcv8Tjg6GXH/sYR0/N6HtX5qhqbEAzq3QSvGwwsQAWOgAfw9BDxPG
+ 3xR8RBpwH5gOXsG8l2519uHlxn1uPkAoK67I/+iHGLS4m4lIQKkgq9zELhf8DxXf
+ AQJc0c9OU5eVU8tRIX5YU3bGC8cPv7DxFBJLKFNedl5MJTjQnchH0xuJ05Jvrmi7
+ CbL5wTX4OmecUU11iWubTVCQcbDgnmpv+hTVc7UNzRAmDGj3TDXxe7oVGkX6iKt5
+ JJqGPW0TO6Ge5gJ9BG4IQgFW5kiZvGQyUjRfLQOF/8l3+6+8rC7IloLhaQARAQAB
+ tElCcmF2ZSBMaW51eCBSZWxlYXNlIChCcmF2ZSBMaW51eCBSZWxlYXNlKSA8YnJh
+ dmUtbGludXgtcmVsZWFzZUBicmF2ZS5jb20+iQJXBBMBCABBFiEE2/GhFsIguMcW
+ T5gjBoa3hCADglcFAmOrCckCGwMFCRLMAwAFCwkIBwICIgIGFQoJCAsCBBYCAwEC
+ HgcCF4AACgkQBoa3hCADglfKqxAAt7nh3mxjnCGw2dXWIZ/mN+yX/+l/Ad5h62jt
+ TYIGP8UX138OJA6elqT1aWbiHmbf5WTtMql7a+/sN60hRnZMSg4VzpsznVTTMVgZ
+ wUbrgVvJeq1a8qDUIQQxuyzMRcYJbitkW4nU7BUU8UV89U5+2AI4RrOrJsdIfCMi
+ /yBjNFSv7a0bjrnX9q7cCvM22XPO1Gs4l0H5aOb2lrwNpEGN35T1kuTKOBZonVS5
+ Rzsmdy+nqtii070OxJwyaUHUtWMAVp0DfzSLT2BeqtdRx5Vi0ETapDm1Ngg8bfPq
+ Nter/eVyxHLkuPRpEVdSXn1c32kDq+8zy9QGoqIzAssie9HbUiZTA5IQyoR14lKB
+ +wEWNmjD7jFKUHGf990luSFmXsizUTnDmia/KcxdcUci00I55uT8t3r20uTEJaag
+ Buyz4wDtzljRXzIM/XEMEnjaGYS9aqtGZ6eDH+KpyCkhUofy77Lm7JLxTLf6tT4P
+ mgzt+aG+S265eT7KYNz6jVWqYzuYIIVBddO4ssUoYkxFTkieYGN6XGeVK9PpqhJQ
+ uROX4xUfyT+w5abFExfIo0v8YJUqslEVVIfr6L4AOoJxw68xa93CG/nRYVifplvI
+ Tkq1kGTpt11fmN/9YltiMYBGw1na1jP/tgYPdicZz0dc1Y36Q6m2Puqi+CCc1LfD
+ gtyJvus=
+ =o5PG
+ -----END PGP PUBLIC KEY BLOCK-----

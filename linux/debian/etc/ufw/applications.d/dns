@@ -1,0 +1,4 @@
+[DNS]
+title=Domain Name Resolution Service
+description=Port 53/udp
+ports=53/udp

@@ -1,0 +1,38 @@
+Name: Ubiquiti Unifi Contoller
+Enabled: yes
+Types: deb
+URIs: https://www.ui.com/downloads/unifi/debian
+Suites: stable
+Components: ubiquiti
+Architectures: amd64
+# https://dl.ui.com/unifi/unifi-repo.gpg
+Signed-By: 
+ -----BEGIN PGP PUBLIC KEY BLOCK-----
+ .
+ mQENBE1IjVEBCACz+LE+NY8Y8vp7VIT7z4rkAlX6GtAwGL18J9xfbC3h/8mef++/
+ c4nJVWKprM1tXvdFSvqckty7fVKyfDMnSP8ja2sNTSXcx9sh1q5mUOZUZUOyCuf9
+ xEgch30eEuUAWJOu9p97N6i8ahNKf+PtO+IE+vT19VBSYNw9Zdmy8rdNtyOoDmxJ
+ zS/lw4bo4omFImfmxvnRyFkP82pswOAy5SiRvdgiK7oW2ChU4CFDmNsEJzw3Mq5V
+ NT6KUFqXRgeFVcaHgR0sAdxQL1q0ezibw553ffBViNSvRBfn6XvAfjrUkYL4sVvg
+ Mpp1wmSTZw1z8oenIzxtnxFopSf27GMqSvuDABEBAAG0JVVuaUZpIERldmVsb3Bl
+ cnMgPHVuaWZpLWRldkB1Ym50LmNvbT6JATgEEwECACIFAk1IjVECGwMGCwkIBwMC
+ BhUIAgkKCwQWAgMBAh4BAheAAAoJEAboV2DApSxQFVoH/AxB2yzB72rhMUNYVr6w
+ sVyWrzPpS7AZKv9z8U8IhYcNdjhmAhZxw3HQ0YZPAQWsuh2ZCSnxW4oSE8qgSXME
+ MmR5lSq4okSWEsDziwdopR5RW1UR0cpDSrV1YK6mbH/ZDYv8WPGZ7ZVfzon02aPi
+ k/rp1TSe7p10NML88p7Gxt7kFDt7aBhVNrzyxQts208dpilPoOsts9SnCIypBBVO
+ 4jJ6GnUXR5quKib32ZrD8+IpeFa9/idK8RaMvoiH5ra6w7jSWxY0DffH8rjPwsHk
+ PgnuhJ9B5clJ0NDBRtv4L7OSBJGorbe8GjB2lf/aMkq+PkXaLC34+pX8PrG/n/be
+ N6+wAgADuQENBE1IjVEBCAC3Ripw/OfxnR1ZFdGgL4yoWoZsqAqbBoMojXWphHSt
+ UEx7EUa9ETwqrT2apEsed/8P2QjNJHhf3bGRBxEwBA5zrFp5rafCz3tj3loNi7qR
+ +4I4p1CtURBgy7DLsJ9/7CGCbo2hoPApvYdBpm1lq5TEWy7YzL8TnLLdwrSRGI52
+ 0P2GVeyicY0lBX1Ud2fMfFtYY1G6A7umYmtBOo976hsZeVs0M7CT02amxEj6NjdE
+ vKPFGLp6cUT1OI9A3JOLrtT14pcHVchZ2OD/bVx/IrgYGGvBtKm1D2QDFEn1OUtd
+ bCZthbk2CU/m/jCD/d6P1EVnQ5zTtk98sM3exAbhQCqVABEBAAGJAR8EGAECAAkF
+ Ak1IjVECGwwACgkQBuhXYMClLFAVmgf/bCiM6j5lgK0byWJO8ipHK/d3AxANfeN6
+ ZrLlrUQhbM0h/QBHcSwbW3wy1qUD2E8vMhtBwSFbUACMJNrmV4PzA7oFfojq+o3V
+ IAy/mmHsRxFrjSkA45wlg92sV5TwAYHo8NJJPw80KtqlDuAU/zhvg0S8DxEmN8F4
+ laXHOm0sx23HyMnwApl1kIqfMlw1we02fbOagpvr+ol1wRuqmrsJp6e26sq+dtZG
+ TnhJkGtcoU2JdajjEm93gLBj87DEm/xbQIVFWjCdQ2xfCgahq48r9ECTKD3ufb+F
+ gZTYYSDm5dn8i0DO1xmO64c9Dc2oFC2607zlzq34EkS3SJ6S3BA52bACAAM=
+ =Yaz1
+ -----END PGP PUBLIC KEY BLOCK-----

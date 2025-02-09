@@ -1,0 +1,8 @@
+Name: Kali GNU/Linux Rolling
+Enabled: yes
+Types: deb
+URIs: http://http.kali.org/kali
+Suites: kali-rolling
+Components: main contrib non-free non-free-firmware
+Architectures: amd64
+Signed-By: /usr/share/keyrings/kali-archive-keyring.gpg
