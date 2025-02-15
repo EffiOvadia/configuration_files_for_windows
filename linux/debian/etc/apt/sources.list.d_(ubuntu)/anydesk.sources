@@ -1,7 +1,7 @@
 Name: AnyDesk
 Enabled: yes
 Types: deb
-URIs: http://deb.anydesk.com/
+URIs: https://deb.anydesk.com/
 Suites: all
 Components: main
 Architectures: amd64
