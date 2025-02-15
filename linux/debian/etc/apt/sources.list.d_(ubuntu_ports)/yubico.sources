@@ -1,4 +1,4 @@
-X-Repolib-Name: Yubico
+Name: Yubico
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/yubico/stable/ubuntu/

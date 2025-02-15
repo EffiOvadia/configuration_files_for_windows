@@ -1,10 +1,11 @@
-X-Repolib-Name: Firefox
+Name: Firefox
 Enabled: yes
 Types: deb
 URIs: https://packages.mozilla.org/apt
 Suites: mozilla 
 Components: main
 Architectures: arm64
+# https://packages.mozilla.org/apt/repo-signing-key.gpg
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

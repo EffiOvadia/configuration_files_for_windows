@@ -1,10 +1,11 @@
-X-Repolib-Name: Cloudflare 
+Name: Cloudflare 
 Enabled: yes
 Types: deb
 URIs: https://pkg.cloudflareclient.com/
 Suites: noble
 Components: main
 Architectures: arm64
+# https://pkg.cloudflareclient.com/pubkey.gpg
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

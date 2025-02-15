@@ -1,10 +1,11 @@
-X-Repolib-Name: Vivaldi Browser
+Name: Vivaldi Browser
 Enabled: yes
 Types: deb
 URIs: https://repo.vivaldi.com/archive/deb/
 Suites: stable
 Components: main
 Architectures: arm64
+# https://repo.vivaldi.com/archive/linux_signing_key.pub
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

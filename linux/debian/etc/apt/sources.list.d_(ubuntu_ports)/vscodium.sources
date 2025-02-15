@@ -1,10 +1,11 @@
-X-Repolib-Name: VSCodium
+Name: VSCodium
 Enabled: yes
 Types: deb
 URIs: https://download.vscodium.com/debs
 Suites: vscodium
 Components: main
 Architectures: arm64
+# https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/raw/master/pub.gpg
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

@@ -1,10 +1,11 @@
-X-Repolib-Name: Docker
+Name: Docker
 Enabled: yes
 Types: deb
 URIs: https://download.docker.com/linux/ubuntu
 Suites: noble
 Components: stable
 Architectures: arm64
+# https://download.docker.com/linux/ubuntu/gpg
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .

@@ -1,4 +1,4 @@
-X-Repolib-Name: Helix editor
+Name: Helix editor
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/maveonair/helix-editor/ubuntu/

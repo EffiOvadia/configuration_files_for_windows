@@ -1,4 +1,4 @@
-X-Repolib-Name: AnyDesk
+Name: AnyDesk
 Enabled: yes
 Types: deb
 URIs: https://deb.anydesk.com/

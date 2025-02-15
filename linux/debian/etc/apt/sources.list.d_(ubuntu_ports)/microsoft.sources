@@ -1,10 +1,11 @@
-X-Repolib-Name: VSCode
+Name: VSCode
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/vscode https://packages.microsoft.com/repos/code/
 Suites: stable
 Components: main
 Architectures: arm64
+# https://packages.microsoft.com/keys/microsoft.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
@@ -25,13 +26,14 @@ Signed-By:
  =J6gs
  -----END PGP PUBLIC KEY BLOCK-----
 
-X-Repolib-Name: Microsoft Powershell
+Name: Microsoft Powershell
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/repos/microsoft-ubuntu-noble-prod
 Suites: noble
 Components: main
 Architectures: arm64
+# https://packages.microsoft.com/keys/microsoft.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
@@ -52,13 +54,14 @@ Signed-By:
  =J6gs
  -----END PGP PUBLIC KEY BLOCK-----
 
-X-Repolib-Name: Microsoft Prod
+Name: Microsoft Prod
 Enabled: yes
 Types: deb
 URIs: https://packages.microsoft.com/ubuntu/24.04/prod
 Suites: noble
 Components: main
 Architectures: arm64
+# https://packages.microsoft.com/keys/microsoft.asc
 Signed-By: 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
  .
