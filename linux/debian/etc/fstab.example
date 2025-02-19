@@ -9,4 +9,3 @@ tmpfs  /tmp      tmpfs defaults,noatime,mode=1777                        0 0 # T
 
 # Update grub to enable TRIP on SSD
 # sed -i 's/[# ]*GRUB_CMDLINE_LINUX_DEFAULT=.*/GRUB_CMDLINE_LINUX_DEFAULT="quiet splash scsi_mod.use_blk_mq=1"/g' /etc/default/grub && update-grub
-
