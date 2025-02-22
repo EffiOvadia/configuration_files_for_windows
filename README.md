@@ -1,1 +1,0 @@
-# configuration file for windows and linux 
